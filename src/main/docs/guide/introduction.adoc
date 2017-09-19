@@ -1,5 +1,5 @@
 Grails Profiles encapsulate project commands, templates, and plugins.
-To create an application using the `react` profile you can use the next command:
+To create an application using the `rest-api-plugin` profile you can use the next command:
 
 [source, bash]
 ----
