@@ -6,8 +6,11 @@ To create an application using the `rest-api-plugin` profile you can use the nex
 grails create-plugin myplugin --profile=rest-api-plugin
 ----
 
-Also, you could create a Grails plugin using the `rest-api-plugin` profile with the http://start.grails.org[Grails Application Forge]
+You can also choose this project when generating your project from the http://start.grails.org[Grails Application Forge], either from the web app or via the API:
 
-image::start.png[]
+[source, bash]
+----
+curl -O start.grails.org/myplugin.zip -d profile=rest-api-plugin
+----
 
 Grails Application Forge is a great way to discover the different provided features in the profile.
