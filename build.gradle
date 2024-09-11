@@ -18,7 +18,8 @@ group 'org.grails.profiles'
 version project.projectVersion
 
 repositories {
-    mavenLocal()
+    mavenLocal() 
+    mavenCentral()
     maven { url "https://repo.grails.org/grails/core" }
 }
 
