@@ -1,3 +1,7 @@
+# Relocated to
+
+https://github.com/grails/grails-profiles
+
 # Grails REST-API Plugin Profile
 
 [![Build Status](https://travis-ci.org/grails-profiles/rest-api-plugin.svg?branch=master)](https://travis-ci.org/grails-profiles/rest-api-plugin)
